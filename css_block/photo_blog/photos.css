@@ -1,0 +1,19 @@
+img {
+    width: 30%;
+    margin: calc(10%/6);
+    outline: 1px solid black;
+}
+
+nav {
+    text-transform: uppercase;
+    border-bottom: 2px solid black;
+    width: 30%;
+    margin-left: calc(10%/6);
+    padding: 1.2em 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5em;
+}
+
+body {
+    background-color: rgb(187, 243, 237);
+}
